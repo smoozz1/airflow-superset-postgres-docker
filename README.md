@@ -1,4 +1,4 @@
-# Airflow + Superset + PostgreSQL Docker Compose Project
+# Airflow + Superset + PostgreSQL Docker compose Setup
 
 A ready-to-use Docker Compose setup for Apache Airflow, Apache Superset and PostgreSQL database.
 
